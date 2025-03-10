@@ -1,0 +1,5 @@
+environments:
+    - name: dev
+      account: <aws_account>
+    - name: production
+      account: <aws_account>
